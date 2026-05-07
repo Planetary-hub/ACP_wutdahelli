@@ -1,0 +1,19 @@
+
+BG_COLOR = "#15151f"
+SIDEBAR_COLOR = "#1f1f2e"
+FRAME_COLOR = "#252538"
+TEXT_COLOR = "#f5e6c8"
+SUBTEXT_COLOR = "#b8aa91"
+BUTTON_COLOR = "#34344a"
+BUTTON_TEXT = "#ffffff"
+BUTTON_HOVER = "#50506f"
+DANGER_COLOR = "#4a2f35"
+DANGER_HOVER = "#6b3f48"
+ENTRY_COLOR = "#f7f1e3"
+LIST_COLOR = "#101018"
+LIST_TEXT = "#f5e6c8"
+
+FONT_MAIN = ("Georgia", 10)
+FONT_TITLE = ("Georgia", 18, "bold")
+FONT_HEADER = ("Georgia", 13, "bold")
+FONT_BUTTON = ("Georgia", 10, "bold")
